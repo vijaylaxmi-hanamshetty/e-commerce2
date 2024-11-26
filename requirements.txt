@@ -1,0 +1,7 @@
+fastapi                 "FastAPI web framework"
+uvicorn                 "ASGI server to run the FastAPI app"
+tortoise-orm            "ORM for working with the database (Tortoise ORM)"
+pydantic                " Pydantic for data validation and serialization"
+python-jose             "For working with JSON Web Tokens (JWT) for authentication "
+passlib                 " For password hashing"ls
+
